@@ -1,19 +1,19 @@
 {
-    "name": "longman/telegram-bot",
+    "name": "nodancejustsex/telegram-bot",
     "type": "library",
     "description": "PHP telegram bot",
     "keywords": ["telegram", "bot", "api"],
     "license": "MIT",
-    "homepage": "https://github.com/akalongman/php-telegram-bot",
+    "homepage": "https://github.com/nodancejustsex/php-telegram-bot",
     "support": {
-        "issues": "https://github.com/akalongman/php-telegram-bot/issues",
-        "source": "https://github.com/akalongman/php-telegram-bot"
+        "issues": "https://github.com/nodancejustsex/php-telegram-bot/issues",
+        "source": "https://github.com/nodancejustsex/php-telegram-bot"
     },
     "authors": [
         {
-        "name": "Avtandil Kikabidze aka LONGMAN",
-        "email": "akalongman@gmail.com",
-        "homepage": "http://longman.ge",
+        "name": "nodancejustsex",
+        "email": "@",
+        "homepage": "natribu.org",
         "role": "Developer"
         }
     ],
